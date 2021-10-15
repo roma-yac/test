@@ -1,2 +1,0 @@
-English line
-Кириллица
