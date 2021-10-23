@@ -1,2 +1,2 @@
-- [ ] :repeat: :whale: ++Сб++ Подготовка к Python
-- [ ] :repeat: ++Сб++ Книги, Ссылки
+- [x] :repeat: :whale: ++Сб++ Подготовка к Python
+- [x] :repeat: ++Сб++ Книги, Ссылки
