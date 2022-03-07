@@ -8,7 +8,7 @@ Markdown content development service for your GitHub repositories
 2. Install [Poetry](https://python-poetry.org/docs/#installation)
 3. Clone the project
 4. Run in the project folder:
-```bash
+```
 poetry shell
 poetry install
 python manage.py makemigrations
