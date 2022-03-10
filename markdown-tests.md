@@ -1,4 +1,4 @@
-# Markdown tests
+# Markdown tests { #top }
 
 ## Abbreviations
 
@@ -15,7 +15,7 @@ This is a paragraph.
 
 ### A hash style header {: #hash }
 
-[link](http://example.com){: class="foo bar" title="Some title!" }
+[link](#top){: class="foo bar" title="Some title!" }
 
 | set on td    | set on em   |
 |--------------|-------------|
