@@ -66,3 +66,7 @@ print(2+2)
 ``` { .python .foo #example }
 print('Hello')
 ```
+
+``` { .lang linenos=true linenostart=42 hl_lines="43-44 50" title="An Example Code Block" }
+A truncated code block...
+```
