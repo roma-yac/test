@@ -59,10 +59,10 @@ a three-line code block
 not part of the list
 ```
 
-``` html
-<p>HTML Document</p>
+``` python
+print(2+2)
 ```
 
-``` { .html .foo .bar }
-<p>HTML Document</p>
+``` { .python .foo #example }
+print('Hello')
 ```
