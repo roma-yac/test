@@ -29,3 +29,40 @@ Apple
 
 Orange
 :   The fruit of an evergreen tree of the genus Citrus.
+
+## Fenced Code Blocks
+
+A paragraph before the code block.
+
+```
+a one-line code block
+```
+
+A paragraph after the code block.
+
+~~~
+a one-line code block
+~~~
+
+````
+```
+````
+
+```
+
+a three-line code block
+
+```
+
+* A list item.
+```
+not part of the list
+```
+
+``` html
+<p>HTML Document</p>
+```
+
+``` { .html .foo .bar }
+<p>HTML Document</p>
+```
