@@ -1,5 +1,12 @@
 # Markdown tests { #top }
 
+## Tables
+
+First Header  | Second Header
+------------- | ------------:
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
 ## Footnotes
 
 Footnotes[^1] have a label[^@#$%] and the footnote's content.
