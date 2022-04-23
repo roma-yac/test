@@ -6,7 +6,19 @@
     Any number of other indented markdown elements.
 
     This is the second paragraph.
+
+!!! note
+    You should note that the title will be automatically capitalized.
+
+!!! danger "Don't try this at home"
+    ...
     
+!!! important ""
+    This is an admonition box without a title.
+
+!!! danger highlight blink "Don't try this at home"
+    ...
+
 ## Tables
 
 First Header  | Second Header
