@@ -1,5 +1,15 @@
 # Markdown tests { #top }
 
+## Syntax highlighting
+
+```python
+print(2+2)
+```
+
+```
+text output
+```
+
 ## Admonition
 
 !!! type "optional explicit title within double quotes"
