@@ -10,6 +10,13 @@ base_url: http://example.com
 
 # Markdown tests { #top }
 
+## SmartyPants
+
+'single quotes'
+"double quotes"
+<<angled quotes>>
+... -- ---
+
 ## Sane Lists
 
 1. Ordered item 1
