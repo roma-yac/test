@@ -18,6 +18,13 @@ base_url: http://example.com
 * Unordered item 1
 * Unordered item 2
 
+A Paragraph.
+* Not a list item.
+
+4. Apples
+5. Oranges
+6. Pears
+
 ## Syntax highlighting
 
 ```python
