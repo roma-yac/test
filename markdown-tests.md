@@ -10,6 +10,14 @@ base_url: http://example.com
 
 # Markdown tests { #top }
 
+[TOC]
+
+## Зміст (TOC)
+
+### `markdown.markdown(text [, **kwargs])` { #markdown data-toc-label='markdown.markdown' }
+
+#### Заголовок 4 рівня
+
 ## SmartyPants
 
 'single quotes'
