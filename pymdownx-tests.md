@@ -39,3 +39,20 @@ __This will all be bold_ because of the token is less than that of the surroundi
 **All will not*** be bold**
 
 **All will not *** be bold**
+
+## [SuperFences](https://facelessuser.github.io/pymdown-extensions/extensions/superfences/)
+
+> ```
+  a fenced block
+  ```
+
+- 
+    ```
+    a fenced block
+    ```
+
+Definition
+: 
+    ```
+    a fenced block
+    ```
