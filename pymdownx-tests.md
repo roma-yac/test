@@ -59,4 +59,4 @@ Definition
     
 ## [Arithmatex](https://facelessuser.github.io/pymdown-extensions/extensions/arithmatex/)
 
-$p(x|y) = \frac{p(y|x)p(x)}{p(y)}$, \(p(x|y) = \frac{p(y|x)p(x)}{p(y)}\).
+$p(x|y) = \frac{p(y|x)p(x)}{p(y)}17$, \(p(x|y) = \frac{p(y|x)p(x)}{p(y)}\).
