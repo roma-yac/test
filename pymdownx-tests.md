@@ -77,3 +77,16 @@ $$
 ^^Insert me^^
 
 H^2^0, text^a\ superscript^
+
+## [Details](https://facelessuser.github.io/pymdown-extensions/extensions/details/)
+
+???+ note "Open styled details"
+
+    ??? danger "Nested details!"
+        And more content again.
+
+??? success
+    Content.
+
+??? warning classes
+    Content.
