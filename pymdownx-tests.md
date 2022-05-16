@@ -90,3 +90,7 @@ H^2^0, text^a\ superscript^
 
 ??? warning classes
     Content.
+
+## [Emoji](https://facelessuser.github.io/pymdown-extensions/extensions/emoji/)
+
+:smile: :heart: :thumbsup:
