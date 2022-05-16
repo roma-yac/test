@@ -71,3 +71,9 @@ $$
     p(v_i=1|\mathbf{h}) & = \sigma\left(\sum_j w_{ij}h_j + b_i\right) \\
     p(h_j=1|\mathbf{v}) & = \sigma\left(\sum_i w_{ij}v_i + c_j\right)
 \end{align}
+
+## [Caret](https://facelessuser.github.io/pymdown-extensions/extensions/caret/)
+
+^^Insert me^^
+
+H^2^0, text^a\ superscript^
