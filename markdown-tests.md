@@ -156,6 +156,8 @@ not part of the list
 
 ``` python
 print(2+2)
+def func(a, b):
+    return a + b
 ```
 
 ``` { .python .foo #example }
