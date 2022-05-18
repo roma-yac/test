@@ -94,3 +94,24 @@ H^2^0, text^a\ superscript^
 ## [Emoji](https://facelessuser.github.io/pymdown-extensions/extensions/emoji/)
 
 :smile: :heart: :thumbsup:
+
+## [SuperFences](https://facelessuser.github.io/pymdown-extensions/extensions/superfences/)
+
+> ```
+  a fenced block
+  ```
+
+- 
+    ```
+    a fenced block
+    ```
+
+Definition
+: 
+    ```
+    a fenced block
+    ```
+
+```{.python .extra-class linenums="1"}
+import hello_world
+```
