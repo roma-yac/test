@@ -114,4 +114,5 @@ Definition
 
 ```{.python .extra-class linenums="1"}
 import hello_world
+print(hello_world())
 ```
