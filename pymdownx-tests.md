@@ -116,3 +116,41 @@ Definition
 import hello_world
 print(hello_world())
 ```
+
+``` {linenums="1 1 2"}
+"""Some file."""
+import foo.bar
+import boo.baz
+import foo.bar.baz
+```
+
+```{.py3 hl_lines="1 3" linenums="2"}
+"""Some file."""
+import foo.bar
+import boo.baz
+import foo.bar.baz
+```
+
+```{.py3 hl_lines="1-2 5 7-8"}
+import foo
+import boo.baz
+import foo.bar.baz
+
+class Foo:
+   def __init__(self):
+       self.foo = None
+       self.bar = None
+       self.baz = None
+```
+
+```{.py3 title="My Cool Header"}
+import foo.bar
+import boo.baz
+import foo.bar.baz
+```
+
+```{.py3 title="hello.py" linenums="1"}
+import foo.bar
+import boo.baz
+import foo.bar.baz
+```
