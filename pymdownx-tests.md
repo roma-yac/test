@@ -154,3 +154,9 @@ import foo.bar
 import boo.baz
 import foo.bar.baz
 ```
+
+## [InlineHilite](https://facelessuser.github.io/pymdown-extensions/extensions/inlinehilite/)
+
+Here is some code: `#!py3 import pymdownx; pymdownx.__version__` or `:::css border: 0px;`.
+
+The mock shebang will be treated like text here: ` #!js var test = 0; `.
