@@ -195,3 +195,6 @@ The mock shebang will be treated like text here: ` #!js var test = 0; `.
     ```
     More content.
     ```
+    
+=== "New Tab"
+    > Great cite
