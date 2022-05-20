@@ -170,3 +170,7 @@ The mock shebang will be treated like text here: ` #!js var test = 0; `.
 ==mark me==
 
 ==smart==mark==
+
+## [SmartSymbols](https://facelessuser.github.io/pymdown-extensions/extensions/smartsymbols/)
+
+(tm) --> <-- <--> =/= c/o
