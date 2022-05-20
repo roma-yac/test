@@ -164,3 +164,9 @@ The mock shebang will be treated like text here: ` #!js var test = 0; `.
 ## [Keys](https://facelessuser.github.io/pymdown-extensions/extensions/keys/)
 
 ++ctrl+alt+delete++
+
+## [Mark](https://facelessuser.github.io/pymdown-extensions/extensions/mark/)
+
+==mark me==
+
+==smart==mark==
