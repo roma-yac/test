@@ -198,3 +198,18 @@ The mock shebang will be treated like text here: ` #!js var test = 0; `.
     
 === "New Tab"
     > Great cite
+
+## [Tasklist](https://facelessuser.github.io/pymdown-extensions/extensions/tasklist/)
+
+Task List
+
+- [X] item 1
+    * [X] item A
+    * [ ] item B
+        more text
+        + [x] item a
+        + [ ] item b
+        + [x] item c
+    * [X] item C
+- [ ] item 2
+- [ ] item 3
