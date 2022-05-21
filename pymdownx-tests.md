@@ -213,3 +213,11 @@ Task List
     * [X] item C
 - [ ] item 2
 - [ ] item 3
+
+## [Tilde](https://facelessuser.github.io/pymdown-extensions/extensions/tilde/)
+
+~~Delete me~~
+
+CH~3~CH~2~OH
+
+text~a\ subscript~
