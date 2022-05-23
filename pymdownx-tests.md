@@ -234,3 +234,9 @@ Formatting can also be applied to blocks by putting the opening and closing
 tags on separate lines and adding new lines between the tags and the content.
 
 ==}
+
+## [EscapeAll](https://facelessuser.github.io/pymdown-extensions/extensions/escapeall/)
+
+\W\e\ \c\a\n\ \e\s\c\a\p\e
+\e\v\e\r\y\t\h\i\n\g\!\ \
+\❤\😄
