@@ -252,3 +252,28 @@ Line&nbsp;with\ nbsp
 ### Repository links
 
 @facelessuser
+
+@facelessuser/pymdown-extensions
+
+@gitlab:pycqa/flake8
+
+Python-Markdown/markdown#1
+
+gitlab:pycqa/flake8#385
+
+Python-Markdown/markdown!598
+
+gitlab:pycqa/flake8!213
+
+Python-Markdown/markdown@de5c696f94e8dde242c29d4be50b7bbf3c17fedb
+
+gitlab:pycqa/flake8@8acf55e0f85233c51c291816d73d828cc62d30d1
+
+Python-Markdown/markdown@007bd2aa4c184b28f710d041a0abe78bffc0ec2e...de5c696f94e8dde242c29d4be50b7bbf3c17fedb
+
+gitlab:pycqa/flake8@1ecf97005a024391fb07ad8941f4d25c4e0aae6e...9bea7576ac33a8e4f72f87ffa81dfa10256fca6e
+
+- https://github.com/facelessuser
+- https://github.com/facelessuser/pymdown-extensions
+- https://gitlab.com/pycqa/flake8/issues/385
+- https://bitbucket.org/mrabarnett/mrab-regex/issues/260/extremely-slow-matching-using-ignorecase
