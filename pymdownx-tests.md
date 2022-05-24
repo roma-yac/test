@@ -93,7 +93,8 @@ H^2^0, text^a\ superscript^
 
 ## [Emoji](https://facelessuser.github.io/pymdown-extensions/extensions/emoji/)
 
-:smile: :heart: :thumbsup:
+:smile: :heart: :thumbsup: :information_source:{ title="Important information" }
+
 
 ## [SuperFences](https://facelessuser.github.io/pymdown-extensions/extensions/superfences/)
 
