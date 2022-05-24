@@ -242,3 +242,13 @@ tags on separate lines and adding new lines between the tags and the content.
 \❤\😄
 
 Line&nbsp;with\ nbsp
+
+## [MagicLink](https://facelessuser.github.io/pymdown-extensions/extensions/magiclink/)
+
+- Just paste links directly in the document like this: https://google.com.
+- Or even an email address: fake.email@email.com.
+- Old format: <https://ukr.net>
+
+### Repository links
+
+@facelessuser
