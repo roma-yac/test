@@ -10,6 +10,8 @@ base_url: http://example.com
 
 # Markdown tests { #top }
 
+https://google.com
+
 [TOC]
 
 ## Зміст (TOC)
