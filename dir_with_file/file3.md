@@ -1,6 +1,6 @@
 [TOC]
 
-# Header
+# Header updated
 
 - [x] $Нд$ :one: :repeat: [Щотижневий огляд](https://hackmd.io/0U8m9CCfQVCdo6FIfnc_SQ)
 - [x] $Нд$ :one: :repeat: Ведення бюджету
