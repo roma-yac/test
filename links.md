@@ -6,7 +6,7 @@
 
 [/file.md](file.md)
 
-[/dir_with_file/file.md](/dir_with_file/file.md)
+[/dir_with_file/file.md](dir_with_file/file.md)
 
 ## Commit types
 
