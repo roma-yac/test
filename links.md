@@ -8,7 +8,7 @@
 
 [dir_with_file/file.md](dir_with_file/file.md)
 
-[ankdown repository](@roma-yac/ankdown)
+@roma-yac/ankdown
 
 https://markhub.io
 
