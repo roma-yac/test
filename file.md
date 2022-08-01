@@ -2,7 +2,7 @@
 
 - english line
 - кириллица
-- next item updated
+- next item updated again
 
 ```python
 # Comment
