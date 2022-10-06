@@ -17,3 +17,5 @@ a = max(6,7,8)
 ![Code_mQqTRFwr5c.png](https://i.imgur.com/NldFslk.png)
 
 ![photo_2022-07-13_16-15-43.jpg](https://i.imgur.com/ne87VRO.jpg)
+
+![](http://pns-stat.hneu.edu.ua/static/img/univer.png)
