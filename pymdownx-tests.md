@@ -88,8 +88,9 @@ H^2^0, text^a\ superscript^
 ??? success
     Content.
 
-??? warning classes
-    Content.
+!!! warning ""
+    ??? "warning classes"
+        Content.
 
 ## [Emoji](https://facelessuser.github.io/pymdown-extensions/extensions/emoji/)
 
