@@ -61,6 +61,12 @@ text output
 !!! note
     You should note that the title will be automatically capitalized.
 
+!!! success
+    You should note that the title will be automatically capitalized.
+
+!!! warning
+    You should note that the title will be automatically capitalized.
+
 !!! danger "Don't try this at home"
     ...
     
